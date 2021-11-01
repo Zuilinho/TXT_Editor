@@ -26,8 +26,6 @@ namespace TextEditor
                 case 0: System.Environment.Exit(0); break;
                 case 1: Abrir(); break;
                 case 2: Editar(); break;
-
-
             }
 
         }
